@@ -1,6 +1,4 @@
-# HvH-Website-Template
-# Website Template
-
+# HvH Website Template
 A simple website template meant for csgo hvh servers / homepages
 
 ## How to 
@@ -9,6 +7,10 @@ Just change the code to your liking. The code in index.html and style.css
 
 ## Other
 Do not say that you made this keep the credits in the index.html or 
+
+## Images
+
+[Homepage](https://ss.kalix.tk/4mb5lrrz.png) 
 
 ## License
 MIT License
